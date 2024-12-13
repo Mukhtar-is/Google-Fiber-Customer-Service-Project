@@ -7,7 +7,7 @@ In this project, Google Fiber offers fiber optic internet to both individuals an
 To help management determine if the team can handle customer inquiries the first time, the team must know how frequently customers call customer service again after making their initial request. In order to determine why consumers are contacting more than once and how to enhance the entire customer experience, leaders also wish to investigate patterns in repeat contacts. I'll build a dashboard that will provide information on recurring callers.
 
 ## Problem:
-The team's ultimate objective is to interact with customers in order to improve operational optimization, lower the number of calls, and raise customer happiness. In addition to giving your stakeholders information on the quantities of repeat callers in various markets and the kinds of issues they represent, the dashboard you develop should show that you understand this objective. 
+The team's ultimate objective is to interact with customers in order to improve operational optimization, lower the number of calls, and raise customer happiness. In addition to giving stakeholders information on the quantities of repeat callers in various markets and the kinds of issues they represent. 
 *Primary question:* 
 - How often are customers repeatedly contacting the customer service team?
 - What problem types generate the most repeat calls?
